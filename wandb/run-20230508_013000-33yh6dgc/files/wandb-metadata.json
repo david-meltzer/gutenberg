@@ -1,0 +1,24 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.13",
+    "heartbeatAt": "2023-05-08T05:30:03.576263",
+    "startedAt": "2023-05-08T05:30:00.429170",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/davidmeltzer/Library/Jupyter/runtime/kernel-81869af1-eab8-4905-97ff-229a1dbc989f.json"
+    ],
+    "state": "running",
+    "program": "Joyce.ipynb",
+    "root": "/Users/davidmeltzer/gutenberg",
+    "git": {
+        "remote": "https://github.com/david-meltzer/nlp_literature.git",
+        "commit": "01328621a7b14a60cd748bc1fd31254f5ca62469"
+    },
+    "email": "76928255+david-meltzer@users.noreply.github.com",
+    "host": "David-Ms-MacBook-Pro.local",
+    "username": "davidmeltzer",
+    "executable": "/Users/davidmeltzer/opt/anaconda3/bin/python"
+}
