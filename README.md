@@ -6,4 +6,4 @@ At the moment I have analyzed the following works by James Joyce, "Dubliners", "
   
 To visualize the data, I first used <a href="https://www.sbert.net/">SentenceTransformers</a> to embed spans of text into high-dimensional vector spaces which effectively capture the semantic meaning of the text. The data can then be visualized using dimensional reduction techniques such as UMAP and T-SNE. It is also possible to measure the effective distances between different chapters of a given book using this high-dimensional vector space and the distances can be visualized using heatmaps.
   
-For a more thorough discussion of these models and the books we are studying, please see the following Weights and Biases <a href="https://wandb.ai/dmeltzer/gutenberg/reports/Visualizing-Literature-using-Transformers--Vmlldzo0MTIyODEx?accessToken=1ekch7p12170nvwbtqzvy2g3shpyyboajfbalciun3ly913cdv033je1rvkoa5bj">report</a>.
+For a more thorough discussion of these models and the books we are studying, please see the following Weights and Biases <a href="https://wandb.ai/dmeltzer/gutenberg/reports/Copy-of-Visualizing-Literature-using-Transformers--Vmlldzo1NzU5NjU0">report</a>.
